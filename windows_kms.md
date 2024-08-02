@@ -1,6 +1,5 @@
-
-
 [NOTE]
+
 These keys are part of the public domain and are available directly from Microsoft.
 These require you to have a KMS server running within reach of the system you're trying to activate.
 These can not be used to pirate software.
@@ -10,7 +9,8 @@ These can not be used to pirate software.
 === Windows Server 2008-2022
 
 Windows Server 2022
-|===
+
+|=== |
 |Product | KMS Key
 |Windows Server 2022 Datacenter	|WX4NM-KYWYW-QJJR4-XV3QB-6VM33
 |Windows Server 2022 Datacenter Azure Edition |NTBV8-9K7Q8-V27C6-M2BTV-KHMXV
@@ -19,6 +19,7 @@ Windows Server 2022
 |===
 
 Windows Server 2019
+
 |===
 |Product | KMS Key
 |Windows Server 2019 Datacenter	|WMDGN-G9PQG-XVVXX-R3X43-63DFG
