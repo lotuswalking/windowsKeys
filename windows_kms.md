@@ -1,26 +1,4 @@
-:doctype: book
-:doctitle: Microsoft Windows and Office KMS Setup
-:docdate: February 22, 2018
-:author: Jerod Gawne
-:email: jerodgawne@gmail.com
-:revnumber: 2.1.0
-:revdate: March 26, 2024
-:revremark: Add keys for older server versions
-:description: setup kms on microsoft windows and office
-:summary: 
-:library: Asciidoctor
-:source-highlighter: highlight.js
-:keywords: windows, kms, office
-:src-uri: https://gist.github.com/jerodg/502bd80a715347662e79af526c98f187[GitHubGist]
-:sectanchors:
-:sectlinks:
-:sectnums:
-:toc:
 
-*Author* {author} [{email}] +
-*Date* {docdate} *Revision* {revnumber}, {revdate} +
-*Tags* {keywords} +
-*Links* {src-uri}
 
 [NOTE]
 These keys are part of the public domain and are available directly from Microsoft.
@@ -31,7 +9,7 @@ These can not be used to pirate software.
 == Select Appropriate KMS Key
 === Windows Server 2008-2022
 
-.Windows Server 2022
+Windows Server 2022
 |===
 |Product | KMS Key
 |Windows Server 2022 Datacenter	|WX4NM-KYWYW-QJJR4-XV3QB-6VM33
@@ -40,7 +18,7 @@ These can not be used to pirate software.
 |Windows Server 2022 Standard |VDYBN-27WPP-V4HQT-9VMD4-VMK7H
 |===
 
-.Windows Server 2019
+Windows Server 2019
 |===
 |Product | KMS Key
 |Windows Server 2019 Datacenter	|WMDGN-G9PQG-XVVXX-R3X43-63DFG
